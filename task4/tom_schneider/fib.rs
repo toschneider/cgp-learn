@@ -1,4 +1,3 @@
-
 struct Typ {
     prev: u32,
     cur: u32,

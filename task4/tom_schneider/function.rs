@@ -1,4 +1,5 @@
 use std::ops::{Add, Mul};
+
 fn main() {
     println!("{:?}", func(3, 4));
 }

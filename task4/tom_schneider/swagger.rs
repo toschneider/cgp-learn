@@ -1,4 +1,5 @@
 use std::fmt;
+
 struct Swagger<T> {
     a: T,
 }
